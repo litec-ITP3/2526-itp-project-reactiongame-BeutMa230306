@@ -1,11 +1,9 @@
-# Project Diary - `<Team-Member NAME>`
+# Project Diary - `<Muhammeddjan Ademi Beutelmeyer Maximilian>`
 
-> [!Note]
-> Write excessive reports here
-> - on what you did 
-> - when 
-> - how 
-> - where you got your information from 
-> - and everything else...
->
-> This note can be deleted, and rename the file accordingly.
+23.02.2026
+Concept erstellt 
+
+02.03.2026
+Arbeit fair aufgeteilt 
+MockUp erstellt 
+Uns nochmal überlegt ob unsere Idee uns gefällt 
