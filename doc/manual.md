@@ -1,10 +1,7 @@
 # Manual - `<Project NAME>`
 
-> [!Note]
-> Add your user manual here:  
-> - Project setup / installation
-> - Needed software / hardware
-> - Usage
-> - ...
->
-> Delete this note.
+## Hardware Angeschlossen 
+
+Button1: A0
+Button2: A2
+Display: I2C
