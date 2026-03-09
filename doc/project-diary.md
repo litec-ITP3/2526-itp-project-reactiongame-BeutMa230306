@@ -7,3 +7,8 @@ Concept erstellt
 Arbeit fair aufgeteilt 
 MockUp erstellt 
 Uns nochmal überlegt ob unsere Idee uns gefällt 
+
+09.03.2026
+Hardware fertig verbunden 
+Informationen über den Ardoino gefunden
+Software am programmieren (Probleme mit dem Programm)
