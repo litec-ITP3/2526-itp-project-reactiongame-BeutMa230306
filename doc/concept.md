@@ -1,12 +1,54 @@
-# Concept - `<Project-NAME>`
+# Concept -ReflexRush 
 
-> [!Note]
-> Write an excessive documentation ("Lasten- / Pflichtenheft") on how you are going to solve the given problem(s)...  
-> This contains at least:  
-> - Full problem description
-> - Tasks
-> - Milestones
-> - Used Technolgies
-> - ... and many more
->  
-> This note can be deleted.
+## Team
+-Muhammeddjan Ademi 
+-Beutelmeyer Maximilian
+
+## Materialien 
+
+Display 
+Arduino 
+zwei Taster
+
+
+## Spielablauf 
+
+1. Beide Spieler warten 
+2. Arduino startet Countdown (Display: 3...     2...       1...) 
+3. Zufällige pause befor "GO!"
+4. Timer starten 
+5. Spieler reagieren 
+6. Arduino speichert die Daten
+7. Insgesamt werden drei Runden gespielt 
+   Wer zwei mal schneller war, hat gewonnen
+
+
+## Extra 
+
+Bei Frühstart bekommt der Gegner den Punkt
+
+## MockUp
+
+![MockUp-Concept](/doc/_img/MockUp.png)
+
+## Aufteilung
+
+### Muhammeddjan Ademi 
+    - MockUp
+    - Software 
+### Beutelmeyer Maximilian
+    - Concept
+    - Hardware 
+
+
+## Meilensteine 
+
+ - 23.02.2026 Concept fertig gestellt 
+ - 02.03.2026 MockUp fertig/ Arbeitsaufteilung erledigt 
+ - 09.03.2026 Hardware aufgebaut/ Software angefangen 
+ - 16.03.2026 Software weiter entwickeln  
+ - 20.4.2026 weiter Programmieren  
+ - 27.4.2026 fertig werden
+
+
+ 

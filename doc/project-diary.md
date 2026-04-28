@@ -12,3 +12,9 @@ Uns nochmal überlegt ob unsere Idee uns gefällt
 Hardware fertig verbunden 
 Informationen über den Ardoino gefunden
 Software am programmieren (Probleme mit dem Programm)
+
+20.04.2026
+Verzweifelt weiter gearbeitet, aber der Code hat immer noch nicht funktioniert.
+
+27.04.2026
+Code funktioniert nach einer Stunde aber die Webseite müssen wir noch entwerfen. 
